@@ -1,0 +1,63 @@
+
+export const data = [
+  {
+    id: 1,
+    pics: "https://m.media-amazon.com/images/I/71C4A-HVcAL._SX679_.jpg",
+    name: "Oreo",
+    price: "104",
+    isDisabled: false,
+  },
+  {
+    id: 2,
+    pics: "https://m.media-amazon.com/images/I/61WJbJqQGjL._SX679_.jpg",
+    name: "Tank",
+    price: "80",
+    offer: "Sale",
+    isDisabled: false,
+  },
+  {
+    id: 3,
+    pics: "https://m.media-amazon.com/images/I/71CIEO6BmdL._SX679_.jpg",
+    name: "Head & Sholuder",
+    price: "429",
+    offer: "Sale",
+    isDisabled: false,
+  },
+  {
+    id: 4,
+    pics: "https://m.media-amazon.com/images/I/61n4jyp69IL._SX679_.jpg",
+    name: "Phillps Trimmer ",
+    price: "803",
+    isDisabled: false,
+  },
+  {
+    id: 5,
+    pics: "https://m.media-amazon.com/images/I/71Knli7zHTL._SX679_.jpg",
+    name: "Tooth Brush",
+    price: "133",
+    offer: " Sale",
+    isDisabled: false,
+  },
+  {
+    id: 6,
+    pics: "https://m.media-amazon.com/images/I/71nvZ+WXlzL._SX679_.jpg",
+    name: "Solimo Wheat Pasta",
+    price: "80",
+    isDisabled: false,
+  },
+  {
+    id: 7,
+    pics: "https://m.media-amazon.com/images/I/81LOSry1kVL._SX679_.jpg",
+    name: "Idli Mix",
+    price: "64",
+    offer: "Sale",
+    isDisabled: false,
+  },
+  {
+    id: 8,
+    pics: "https://m.media-amazon.com/images/I/51EDhZhCDfL._SX679_.jpg",
+    name: "Maaza",
+    price: "45",
+    isDisabled: false,
+  },
+];
